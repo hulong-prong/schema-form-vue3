@@ -323,3 +323,7 @@ formList <br />
   }
 </style>
 ```
+
+## 示例渲染结果
+
+![表单渲染结果](https://github.com/hulong-prong/schema-form-vue3/blob/master/src/assets/image.png)
